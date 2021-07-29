@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "39EAF0B3-49DA-4491-90DA-13C544B14CE1",
+  "do_objectID": "2B009BBE-9A56-4B88-9355-8C6F6237268D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 269,
     "width": 221,
-    "x": 278,
+    "x": 551,
     "y": 202
   },
   "groupLayout": {
@@ -50,10 +50,10 @@
   "layers": [
     {
       "class": "text",
-      "id": "E2883F85-3B98-4443-A149-B39C696648B6"
+      "id": "2E61BBC8-6ED6-4F9D-9E9B-12A36BB0AEFD"
     }
   ],
-  "name": "Artboard",
+  "name": "Artboard Copy",
   "nameIsFixed": false,
   "presetDictionary": {
   },
@@ -96,7 +96,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A2F2161D-B579-46B5-9A6B-B6D5115DA226",
+    "do_objectID": "9A3684C5-8ABF-4200-A5D9-38B2BDAC9A42",
     "endMarkerType": 0,
     "fills": [
     ],
