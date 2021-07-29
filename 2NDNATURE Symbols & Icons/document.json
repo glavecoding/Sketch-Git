@@ -1,0 +1,245 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "4A0E0932-DFB3-4B61-B507-BD7E4224E9B9",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "dcc850b0-f099-11eb-bd6e-d785f9ab0be3",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "1148209F-7575-4214-A3E7-5569A1EADF45",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Hairline.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Hairline"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "201B4DC3-E986-4954-A10B-3D9B8D61C45D",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Medium.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "23085BDE-45CE-4977-AE5F-05B1F2465A00",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Lato-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "30608A69-2DFE-4B07-95A8-EBE954D49EEF",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "363194D5-B7BC-43E7-A1CA-245B95D740E1",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "46B041F0-40C7-4DFA-B8B5-426DDB08FFFF",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6524E132-E19E-4E14-9189-3FCA5B47A08A",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7973B034-07C8-427D-A623-AB51806165E5",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7D946584-83F8-40A3-AAA7-8E6C36228A1E",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9435A44D-0999-4A76-8813-D2811AC6F692",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-HeavyItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-HeavyItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9AA5F5B5-F8DD-4AD0-98FD-5482F2A72EA2",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Semibold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9FBA4AE3-CF21-467F-9BED-FC3031BFF462",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BF618710-DF82-4789-82F0-757C8D8D51C5",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C500A84E-3798-473E-86C8-332A918F5953",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D6594807-3315-40EC-A6C4-290CABF9C5BF",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Heavy.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DC7D22A6-DA3E-418B-838A-66DEDB3CE91F",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-SemiboldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-SemiboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E551DBB6-782C-4E4B-BDCB-A090017FE7B2",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F1DDA035-6F22-40CF-9BD0-1C966A488F57",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-HairlineItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-HairlineItalic"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "F3F4759E-F282-11EB-BD6E-DC87F98A728E",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "74.1",
+    "build": 128920,
+    "version": 136
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "E5F8719E-F282-11EB-BD6E-DC87F98A7C82",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
