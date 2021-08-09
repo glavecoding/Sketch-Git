@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -10,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3C489CE4-EC26-40C3-A2DD-DC8F846B45BD",
+  "do_objectID": "FCB2AC03-8759-47B6-8965-9EBA7C5F07D5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
-    "x": 260,
-    "y": 0
+    "height": 175,
+    "width": 175,
+    "x": 532,
+    "y": 265
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -41,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -51,19 +49,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "64FB34C2-8B34-4F13-870A-CF8DBAAA2F58"
+      "class": "rectangle",
+      "id": "D4070356-19E9-442D-9E65-66A04E46C018"
     }
   ],
-  "name": "Grid",
+  "name": "Artboard Copy",
   "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "64FB34C2-8B34-4F13-870A-CF8DBAAA2F58_image"
-    }
-  ],
   "presetDictionary": {
   },
   "resizesContent": false,
@@ -105,7 +96,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0A12B712-4137-4B18-8D17-1CD6701E48E2",
+    "do_objectID": "A625D93C-5597-4137-BDAD-7B85B656969B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -117,7 +108,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F7C55280-9F72-4023-B48D-FD72D9515F0C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -1,0 +1,64 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "314EEC4D-647F-473C-98F1-D3D5EE1B8E54",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "b2fcfdd0-f3a5-11eb-b0bf-cfa8147e2a08",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "D5B55CDE-2503-400C-9856-7259019969D7",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "74.1",
+    "build": 128920,
+    "version": 136
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "CD83B569-DFEF-4CAC-B95D-F79A4CF63624",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "page",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "64FB34C2-8B34-4F13-870A-CF8DBAAA2F58",
+  "do_objectID": "b2fcafb0-f3a5-11eb-b0bf-cfa8147e2a08",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,29 +12,42 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 32,
-    "width": 32,
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
-  "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/b5565d431e688ea3fac55171d7341203d210e964.png",
-    "_ref_class": "MSImageData"
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
-  "intendedDPI": 72,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Grid",
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "E6D35D1B-6254-4D68-A7CC-0D307DCEF5D0"
+    },
+    {
+      "class": "artboard",
+      "id": "FCB2AC03-8759-47B6-8965-9EBA7C5F07D5"
+    }
+  ],
+  "name": "Page 1",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,7 +87,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "44F78FE4-E324-4F9E-B4A7-BB6A5BAEAAD5",
+    "do_objectID": "47B260C5-4D45-4A95-9B3D-6C5944097C11",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,5 +98,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
   }
 }
